@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>nexus</groupId>
   <artifactId>nexus-esprit</artifactId>
-  <version>0.0.15000-SNAPSHOT</version>
+  <version>2500-SNAPSHOT</version>
   <name>nexus-esprit</name>
   <description>nexus-esprit</description>
   <repositories>
